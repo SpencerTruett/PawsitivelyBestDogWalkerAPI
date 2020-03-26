@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QKHk7nILMO+mH4lI0djmA72cgEtUZ0ppvOhX4uvBTEM7B751F+hEFNgrGZgY5wtpAOBTPhaA0FV/F7R90fqJ+g==",
+  "dgSpecHash": "HFinhI2/GVVCz/gz+so96rihaFY997ebsIwC0piI0QuXF9Glu5jByKRy1YrcrMIznbUMug+8l8TV2B4xyZtWjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gilde\\source\\repos\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI.csproj",
+  "projectFilePath": "C:\\Users\\gilde\\workspace\\csharp\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gilde\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gilde\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

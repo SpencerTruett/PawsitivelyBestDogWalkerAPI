@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace PawsitivelyBestDogWalkerAPI.Models
 {
-    class Dog
+   public class Dog
     {
         public int Id { get; set; }
         public string Name { get; set; }

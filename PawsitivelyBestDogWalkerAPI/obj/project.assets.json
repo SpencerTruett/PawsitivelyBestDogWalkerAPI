@@ -6489,11 +6489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilde\\source\\repos\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\gilde\\workspace\\csharp\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI.csproj",
       "projectName": "PawsitivelyBestDogWalkerAPI",
-      "projectPath": "C:\\Users\\gilde\\source\\repos\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI.csproj",
+      "projectPath": "C:\\Users\\gilde\\workspace\\csharp\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI.csproj",
       "packagesPath": "C:\\Users\\gilde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilde\\source\\repos\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\obj\\",
+      "outputPath": "C:\\Users\\gilde\\workspace\\csharp\\PawsitivelyBestDogWalkerAPI\\PawsitivelyBestDogWalkerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gilde\\AppData\\Roaming\\NuGet\\NuGet.Config",
