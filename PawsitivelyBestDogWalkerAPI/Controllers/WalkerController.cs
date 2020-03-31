@@ -60,6 +60,12 @@ namespace PawsitivelyBestDogWalkerAPI.Controllers
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="include">Takes "walks" as a parameter</param>
+        /// <returns></returns>
         [HttpGet("{id}", Name = "GetWalker")]
         public async Task<IActionResult> Get([FromRoute] int id, [FromQuery] string include)
         {

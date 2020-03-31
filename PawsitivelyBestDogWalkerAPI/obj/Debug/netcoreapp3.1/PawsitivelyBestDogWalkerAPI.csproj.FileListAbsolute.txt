@@ -179,8 +179,6 @@ C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWa
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.csprojAssemblyReference.cache
-C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.csproj.CoreCompileInputs.cache
-C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.AssemblyInfoInputs.cache
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.AssemblyInfo.cs
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.RazorTargetAssemblyInfo.cache
@@ -190,3 +188,12 @@ C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWa
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.dll
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.pdb
 C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.genruntimeconfig.cache
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.xml
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.csproj.CoreCompileInputs.cache
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gilde\workspace\csharp\PawsitivelyBestDogWalkerAPI\PawsitivelyBestDogWalkerAPI\obj\Debug\netcoreapp3.1\PawsitivelyBestDogWalkerAPI.xml
